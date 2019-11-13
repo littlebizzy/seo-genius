@@ -1,0 +1,16 @@
+{
+    "name": "littlebizzy/seo-genius",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.littlebizzy.com/plugins/seo-genius",
+    "description": "The ultimate collection of SEO optimization features for WordPress including SERP previews, optimized HTML headers, meta description fields, and more.",
+    "keywords": ["wordpress","plugin","seo","search","engine","optimization","serp","preview","meta","tags"],
+    "support": {
+        "issues": "https://github.com/littlebizzy/seo-genius/issues",
+        "forum": "https://www.littlebizzy.com/members"
+    },
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    }
+}

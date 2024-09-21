@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 add_filter( 'gu_override_dot_org', function( $overrides ) {
     $overrides[] = 'seo-genius/seo-genius.php';
     return $overrides;
-});
+}, 999 );
 
 // Load settings page
 require_once plugin_dir_path(__FILE__) . 'admin/settings-page.php';

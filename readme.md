@@ -6,7 +6,7 @@ Lightweight WordPress SEO plugin
 
 - [404 To Homepage](https://www.littlebizzy.com/plugins/404-to-homepage)
 - Block Referrer Spam
-- Disable Author Pages
+- [Disable Author Pages](https://www.littlebizzy.com/plugins/disable-feeds)
 - Disable Attachment Pages
 - [Disable Feeds](https://www.littlebizzy.com/plugins/disable-feeds)
 - Disable Search
